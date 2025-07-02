@@ -11,7 +11,9 @@
 
 结账时会算上折扣显示总价
 
-流程图<img width="614" alt="15a2a5b54c98651ddb33e3ed131146c" src="https://github.com/user-attachments/assets/915b0b9b-b7cf-4578-9363-c3f455ca028f" />
+流程图
+
+<img width="614" alt="15a2a5b54c98651ddb33e3ed131146c" src="https://github.com/user-attachments/assets/915b0b9b-b7cf-4578-9363-c3f455ca028f" />
 
 
 ![image](https://github.com/user-attachments/assets/0bd1695a-d3ce-4b25-bc05-f0917e0c5e6f)
